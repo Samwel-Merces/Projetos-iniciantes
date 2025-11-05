@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class CalcJavax {
+public class CalculadoraJOptionPane {
     public static void main(String []args){
 
 float numero1 =0;
